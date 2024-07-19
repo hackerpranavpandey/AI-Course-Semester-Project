@@ -1,6 +1,6 @@
-# Plant Classification AI Project
+# Medicinal Plant Classification- AI Course Project
 
-This project aims to classify different types of plants using deep learning techniques.
+This project aims to classify different types of plants using deep learning techniques focusing CNN.
 
 ---
 
