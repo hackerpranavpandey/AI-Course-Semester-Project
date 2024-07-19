@@ -20,7 +20,7 @@ Plant classification is an important task in agriculture, botany, and environmen
 To use the plant classification model, follow these steps:
 
 1. Clone the repository: <br>
-- git clone https://github.com/hackerpranavpandey/AICourseSemesterProject.git
+- git clone https://github.com/hackerpranavpandey/AI-Course-Semester-Project.git
 2. Navigate to the project directory:
 - cd AIProject
 3. Install the dependencies:
