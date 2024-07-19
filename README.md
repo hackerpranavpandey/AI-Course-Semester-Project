@@ -1,6 +1,6 @@
 # Medicinal Plant Classification- AI Course Project
 
-This project aims to classify different types of plants using deep learning techniques focusing CNN.
+This is AI course semester project offered during 3rd Semester at IIT Dharwad.It was a group Project done by total 6 peoples.This project aims to classify different types of plants using deep learning techniques focusing CNN.
 
 ---
 
